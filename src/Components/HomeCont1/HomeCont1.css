@@ -1,0 +1,37 @@
+.Hom1General{
+height: 100%;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: -100px;
+}
+
+.Hom1GeneralWidth{
+  width: 1100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Hom1BlueYell{
+  width: 437px;
+  font-weight: bold;
+  font-size: 90px;
+  line-height: 1.1;
+  /* display: flex;
+  align-items: flex-start; */
+  color: #0d219f;
+}
+
+.Yell2{
+  margin-top: -95px;
+  color: #fcad31;
+}
+
+.smaSide{
+  width:416px;
+  color: #0d219f;
+  margin-top: 110px;
+  font-weight: bold;
+  font-size: 23px;
+}

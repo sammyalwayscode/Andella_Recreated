@@ -1,0 +1,42 @@
+.GeneralHeader{
+  height: 60px;
+  width: 100vw;
+  background-color: #040B73;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.HeaderWidth{
+width: 1195px;
+display: flex;
+/* background-color: aqua; */
+justify-content: center;
+align-items: center;
+justify-content: space-between;
+}
+
+.AndelaLogo{
+  width: 131px;
+}
+
+.HeaderNav{
+  width: 485px;
+  /* background-color: blue; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 130px;
+  color: white;
+  
+}
+
+.JoinGet{
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+}
